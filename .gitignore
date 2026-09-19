@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Minecraft development runtime
+run/logs/
+run/crash-reports/
+run/saves/
+
+# Server runtime
+Server/logs/
+Server/cache/
+Server/.paper/
+
+# Temporary files
+*.log
+*.tmp
